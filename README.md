@@ -13,8 +13,8 @@
 
 ## My working tools :computer:
 
-<img align="left" width="45%" height="90" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical"/>
-<img align="right" width="45%" height="90" src="https://github-readme-stats.vercel.app/api?username=l1too&show_icons=true&theme=radical"/>
+<img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical"/>
+<img align="right" width="43%" src="https://github-readme-stats.vercel.app/api?username=l1too&show_icons=true&theme=radical"/>
 
 <br clear="both"/>
 
