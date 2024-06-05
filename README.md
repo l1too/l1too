@@ -1,4 +1,5 @@
-### Hi, I'm Gabriel Quiroga! 👋
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHlpeW82ZzAydnhtOHppZjhzN3U4NmRiMmRxdXQ1eHkwbDd1MHJkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="100" height="100"/> Hi, I'm Gabriel Quiroga! 👋
+
 
 ---------
 
